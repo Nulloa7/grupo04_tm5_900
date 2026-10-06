@@ -1,0 +1,5 @@
+repositories:
+  tmr_ros2:
+    type: git
+    url: https://github.com/TechmanRobotInc/tmr_ros2.git
+    version: c40bfc0d296337311f311c837861fd6318b00407
